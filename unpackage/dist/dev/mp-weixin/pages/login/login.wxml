@@ -1,0 +1,1 @@
+<view wx:if="{{a}}" class="userLayout pageBg data-v-e4e4508d"><view class="data-v-e4e4508d" style="{{'height:' + b}}"></view><view class="userInfo data-v-e4e4508d"><view class="avatar data-v-e4e4508d"><image class="data-v-e4e4508d" src="{{c}}" mode="aspectFill"></image></view></view></view>
